@@ -1,6 +1,6 @@
 # Vectra | Pessoa Desenvolvedora 
 
-Este projeto foi gerado com ASP.NET Core versão 5.0
+Este projeto foi gerado com ASP.NET Core versão 6.0
 
 ## Servidor de desenvolvimento
 
