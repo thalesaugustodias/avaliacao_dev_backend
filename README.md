@@ -22,5 +22,7 @@ Este é um projeto ASP.NET Core 5.0 que abastece o front-end https://github.com/
 
 Não foi implementado nenhum conceito de arquitetura neste projeto, apenas um controller no formato REST para gerenciar as requisições feitas ao servidor.
 
+- Crie uma branch com seu nome e boa sorte!
+
 ### Fique a vontade para implementar qualquer melhoria, inclusive conceitos diferentes na organização da solução.
 ### Qualquer mudança seja funcional ou estrutural será avaliada.
