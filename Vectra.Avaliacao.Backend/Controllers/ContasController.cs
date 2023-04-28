@@ -14,7 +14,7 @@ using Vectra.Avaliacao.Backend.Interfaces;
 namespace Vectra.Avaliacao.Backend.Controllers 
 {
     [Route("api/[controller]")]
-    [ApiController]
+    [ApiController] 
     public class ContasController : ControllerBase
     {
         IEFContext dbContext;
